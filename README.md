@@ -1,14 +1,26 @@
 # Vaporwave-Location
-Website created as a personal music playlist and css skill enhancement
-
-To run this project you will need a xampp control panel or wampp to create a localhost.
-
-Below are some images of the website created
 
 
-![image](https://user-images.githubusercontent.com/50644857/180241022-3f8acfdf-1616-49eb-aaab-5dbbc41d3996.png)
+# About
+Website created as a personal music playlist and css skill enhancement, this website have a registration system to improve my skills with PHP lamguage
+
+## Instalation
+To run this project you will need a [xampp](https://www.apachefriends.org/pt_br/index.html) control panel or [wampp](https://www.wampserver.com/en/) to create a localhost.
+
+you will need to initiate a apache and MySql server
+
+![image](https://user-images.githubusercontent.com/50644857/180243751-d52b61ea-9d66-4d22-a43e-2fb560411619.png)
+
+
+## Languages
+This project was created with 
+- HTML5 - Markup language
+- CSS - Styling language for the front end
+- PHP - Client Side language for interpretation with Database
+- MySql - Database language used
 
 
 
 
-![image](https://user-images.githubusercontent.com/50644857/180241256-48f949b4-0c2b-45ed-bc68-785d3d5f2370.png)
+## Authors
+Juan Trindade :computer:
