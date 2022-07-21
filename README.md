@@ -2,7 +2,7 @@
 
 
 # About
-Website created as a personal music playlist and css skill enhancement, this website have a registration system to improve my skills with PHP lamguage
+Website created as a personal music playlist and css skill enhancement, this website have a registration system to improve my skills with PHP language
 
 ## Instalation
 To run this project you will need a [xampp](https://www.apachefriends.org/pt_br/index.html) control panel or [wampp](https://www.wampserver.com/en/) to create a localhost.
