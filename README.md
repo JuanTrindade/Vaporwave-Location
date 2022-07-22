@@ -11,7 +11,7 @@ Website created as a personal music playlist and css skill enhancement, this web
 
 ## Running
 
-### Method Nº1
+### With PHP CLI
 
 Install the [php cli](https://www.php.net/manual/en/install)
 
@@ -25,10 +25,11 @@ Clone or download the repository
 
 Then access localhost:8080 in your browser
 
-### Method Nº2
+### With Xampp\Wampp server
+
 You can install [xampp](https://www.apachefriends.org/pt_br/index.html) control panel or [wampp](https://www.wampserver.com/en/) to create a localhost.
 
-you will need to initiate a apache and MySql server
+Start app locally and after clone the repository copy then inside HTDOCS file
 
 ![image](https://user-images.githubusercontent.com/50644857/180243751-d52b61ea-9d66-4d22-a43e-2fb560411619.png)
 
