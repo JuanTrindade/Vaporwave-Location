@@ -32,6 +32,7 @@ you will need to initiate a apache and MySql server
 
 ![image](https://user-images.githubusercontent.com/50644857/180243751-d52b61ea-9d66-4d22-a43e-2fb560411619.png)
 
+Then access localhost:8080 in your browser
 
 ## Languages
 This project was created with 
