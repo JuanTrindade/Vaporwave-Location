@@ -12,10 +12,10 @@ Website created as a personal music playlist and css skill enhancement, this web
 ## Running
 
 ### Method Nº1
-Clone or download the repository.
 
-install the [php cli](https://www.php.net/manual/en/install)
+Install the [php cli](https://www.php.net/manual/en/install)
 
+Clone or download the repository
 ``` npm
     cd vaporwave-location
 ```
