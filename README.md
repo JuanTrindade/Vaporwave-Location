@@ -27,9 +27,9 @@ Then access localhost:8080 in your browser
 
 ### With Xampp\Wampp server
 
-You can install [xampp](https://www.apachefriends.org/pt_br/index.html) control panel or [wampp](https://www.wampserver.com/en/) to create a localhost.
+After clone the repository copy then inside HTDOCS file
 
-Start app locally and after clone the repository copy then inside HTDOCS file
+You can install [xampp](https://www.apachefriends.org/pt_br/index.html) control panel or [wampp](https://www.wampserver.com/en/) to start app locally.
 
 ![image](https://user-images.githubusercontent.com/50644857/180243751-d52b61ea-9d66-4d22-a43e-2fb560411619.png)
 
