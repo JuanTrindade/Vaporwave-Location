@@ -4,8 +4,29 @@
 # About
 Website created as a personal music playlist and css skill enhancement, this website have a registration system to improve my skills with PHP language
 
-## Instalation
-To run this project you will need a [xampp](https://www.apachefriends.org/pt_br/index.html) control panel or [wampp](https://www.wampserver.com/en/) to create a localhost.
+## Requisites
+
+- PHP 7+
+- MySQL 3.0+
+
+## Running
+
+### Method Nº1
+Clone or download the repository.
+
+install the [php cli](https://www.php.net/manual/en/install)
+
+``` npm
+    cd vaporwave-location
+```
+```
+  php -S server.php -p 8080
+```
+
+Then access localhost:8080 in your browser
+
+### Method Nº2
+You can install [xampp](https://www.apachefriends.org/pt_br/index.html) control panel or [wampp](https://www.wampserver.com/en/) to create a localhost.
 
 you will need to initiate a apache and MySql server
 
